@@ -1,0 +1,60 @@
+D:\тестовое задание InfTeh\InfTeh\InfTeh\bin\Debug\InfTeh.exe.config
+D:\тестовое задание InfTeh\InfTeh\InfTeh\bin\Debug\InfTeh.exe
+D:\тестовое задание InfTeh\InfTeh\InfTeh\bin\Debug\InfTeh.pdb
+D:\тестовое задание InfTeh\InfTeh\InfTeh\obj\Debug\InfTeh.csprojAssemblyReference.cache
+D:\тестовое задание InfTeh\InfTeh\InfTeh\obj\Debug\InfTeh.Form1.resources
+D:\тестовое задание InfTeh\InfTeh\InfTeh\obj\Debug\InfTeh.Properties.Resources.resources
+D:\тестовое задание InfTeh\InfTeh\InfTeh\obj\Debug\InfTeh.csproj.GenerateResource.cache
+D:\тестовое задание InfTeh\InfTeh\InfTeh\obj\Debug\InfTeh.csproj.CoreCompileInputs.cache
+D:\тестовое задание InfTeh\InfTeh\InfTeh\obj\Debug\InfTeh.exe
+D:\тестовое задание InfTeh\InfTeh\InfTeh\obj\Debug\InfTeh.pdb
+D:\тестовое задание InfTeh\InfTeh\InfTeh\bin\Debug\Npgsql.dll
+D:\тестовое задание InfTeh\InfTeh\InfTeh\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\тестовое задание InfTeh\InfTeh\InfTeh\bin\Debug\Npgsql.pdb
+D:\тестовое задание InfTeh\InfTeh\InfTeh\bin\Debug\Npgsql.xml
+D:\тестовое задание InfTeh\InfTeh\InfTeh\obj\Debug\InfTeh.csproj.CopyComplete
+D:\InfTeh\InfTeh\InfTeh\bin\Debug\InfTeh.exe.config
+D:\InfTeh\InfTeh\InfTeh\bin\Debug\InfTeh.exe
+D:\InfTeh\InfTeh\InfTeh\bin\Debug\InfTeh.pdb
+D:\InfTeh\InfTeh\InfTeh\bin\Debug\Npgsql.dll
+D:\InfTeh\InfTeh\InfTeh\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\InfTeh\InfTeh\InfTeh\bin\Debug\Npgsql.pdb
+D:\InfTeh\InfTeh\InfTeh\bin\Debug\Npgsql.xml
+D:\InfTeh\InfTeh\InfTeh\obj\Debug\InfTeh.csprojAssemblyReference.cache
+D:\InfTeh\InfTeh\InfTeh\obj\Debug\InfTeh.Form1.resources
+D:\InfTeh\InfTeh\InfTeh\obj\Debug\InfTeh.Properties.Resources.resources
+D:\InfTeh\InfTeh\InfTeh\obj\Debug\InfTeh.csproj.GenerateResource.cache
+D:\InfTeh\InfTeh\InfTeh\obj\Debug\InfTeh.csproj.CoreCompileInputs.cache
+D:\InfTeh\InfTeh\InfTeh\obj\Debug\InfTeh.csproj.CopyComplete
+D:\InfTeh\InfTeh\InfTeh\obj\Debug\InfTeh.exe
+D:\InfTeh\InfTeh\InfTeh\obj\Debug\InfTeh.pdb
+C:\Users\Kirill\Desktop\InfTex\InfTeh\InfTeh\InfTeh\bin\Debug\InfTeh.exe.config
+C:\Users\Kirill\Desktop\InfTex\InfTeh\InfTeh\InfTeh\bin\Debug\InfTeh.exe
+C:\Users\Kirill\Desktop\InfTex\InfTeh\InfTeh\InfTeh\bin\Debug\InfTeh.pdb
+C:\Users\Kirill\Desktop\InfTex\InfTeh\InfTeh\InfTeh\bin\Debug\Npgsql.dll
+C:\Users\Kirill\Desktop\InfTex\InfTeh\InfTeh\InfTeh\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Kirill\Desktop\InfTex\InfTeh\InfTeh\InfTeh\bin\Debug\Npgsql.pdb
+C:\Users\Kirill\Desktop\InfTex\InfTeh\InfTeh\InfTeh\bin\Debug\Npgsql.xml
+C:\Users\Kirill\Desktop\InfTex\InfTeh\InfTeh\InfTeh\obj\Debug\InfTeh.csprojAssemblyReference.cache
+C:\Users\Kirill\Desktop\InfTex\InfTeh\InfTeh\InfTeh\obj\Debug\InfTeh.Form1.resources
+C:\Users\Kirill\Desktop\InfTex\InfTeh\InfTeh\InfTeh\obj\Debug\InfTeh.Properties.Resources.resources
+C:\Users\Kirill\Desktop\InfTex\InfTeh\InfTeh\InfTeh\obj\Debug\InfTeh.csproj.GenerateResource.cache
+C:\Users\Kirill\Desktop\InfTex\InfTeh\InfTeh\InfTeh\obj\Debug\InfTeh.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\Desktop\InfTex\InfTeh\InfTeh\InfTeh\obj\Debug\InfTeh.csproj.CopyComplete
+C:\Users\Kirill\Desktop\InfTex\InfTeh\InfTeh\InfTeh\obj\Debug\InfTeh.exe
+C:\Users\Kirill\Desktop\InfTex\InfTeh\InfTeh\InfTeh\obj\Debug\InfTeh.pdb
+C:\Users\Kirill\Desktop\InfTex\InfTeh\InfTeh\bin\Debug\InfTeh.exe.config
+C:\Users\Kirill\Desktop\InfTex\InfTeh\InfTeh\bin\Debug\InfTeh.exe
+C:\Users\Kirill\Desktop\InfTex\InfTeh\InfTeh\bin\Debug\InfTeh.pdb
+C:\Users\Kirill\Desktop\InfTex\InfTeh\InfTeh\bin\Debug\Npgsql.dll
+C:\Users\Kirill\Desktop\InfTex\InfTeh\InfTeh\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Kirill\Desktop\InfTex\InfTeh\InfTeh\bin\Debug\Npgsql.pdb
+C:\Users\Kirill\Desktop\InfTex\InfTeh\InfTeh\bin\Debug\Npgsql.xml
+C:\Users\Kirill\Desktop\InfTex\InfTeh\InfTeh\obj\Debug\InfTeh.csprojAssemblyReference.cache
+C:\Users\Kirill\Desktop\InfTex\InfTeh\InfTeh\obj\Debug\InfTeh.Form1.resources
+C:\Users\Kirill\Desktop\InfTex\InfTeh\InfTeh\obj\Debug\InfTeh.Properties.Resources.resources
+C:\Users\Kirill\Desktop\InfTex\InfTeh\InfTeh\obj\Debug\InfTeh.csproj.GenerateResource.cache
+C:\Users\Kirill\Desktop\InfTex\InfTeh\InfTeh\obj\Debug\InfTeh.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\Desktop\InfTex\InfTeh\InfTeh\obj\Debug\InfTeh.csproj.CopyComplete
+C:\Users\Kirill\Desktop\InfTex\InfTeh\InfTeh\obj\Debug\InfTeh.exe
+C:\Users\Kirill\Desktop\InfTex\InfTeh\InfTeh\obj\Debug\InfTeh.pdb

@@ -1,0 +1,22 @@
+//code for inserting into the database
+if(array_key_exists('submit_pic', $_POST)){
+$user=$_SESSION['name'];
+if(isset($_FILES['thumbnail'])&&$_FILES['thumbnail']['size']>0){
+$fi =  $_FILES['thumbnail']['tmp_name'];
+$p=fopen($fi,'r');
+$data=fread($p,filesize($fi));
+$data=addslashes($data);
+$dat= pg_escape_bytea($data); 
+$q="update userinfo set image='{$dat}' where email='$user'";
+$e=pg_query($q)or die(pg_last_error());
+
+// code for retreving from database
+require_once('conn.php');
+session_start();
+$user=$_SESSION['name'];
+pg_query('SET bytea_output = "escape";');
+$lquery ="select image from userinfo where email='$user'";
+$lq = pg_query($lquery)or die(pg_last_error());
+$lqq=pg_fetch_row($lq,'image');
+header("conent-type:image");
+echo pg_unescape_bytea($lqq[0]);
